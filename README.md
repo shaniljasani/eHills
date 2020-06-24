@@ -2,7 +2,7 @@
 
 Hi! My name is **Shanil Jasani** and I am the programmer behind **eHills**, my EE 422C Final Project. If you want to buy things from an online auction, eHills is the software for you! Here's how it works:
 
-*Due to academic integrity policies, I am unable to publish the code for this project. I have, however, published some screenshots for your evaluation* 
+*Due to academic integrity policies, I am unable to publish the code for this project. I have, however, published some screenshots for your evaluation.* 
 
 
 ### Top Features
